@@ -5,7 +5,7 @@ const Hero = () => {
     <div className="flex flex-col items-center justify-center h-screen px-4 text-center overflow-hidden">
 
       {/* Tagline */}
-      <p className="text-[#FDA15F] bg-[#FDA15F]/20 border border-[#FDA15F] w-fit px-4 rounded-full py-1 font-semibold text-xs">
+      <p className="text-[#FDA15F] bg-[#FDA15F]/14 border border-[#FDA15F] w-fit px-4 rounded-full py-1 font-semibold text-xs">
         Job hunt made easy ✨
       </p>
 
